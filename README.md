@@ -1,7 +1,7 @@
 ### Hi there  
   
 - 🔭 Student at Seneca College  
-- Languages in [C++](https://img.shields.io/badge/-C%2B%2B-green?logo=C++), [HTML](https://img.shields.io/badge/-HTML-blue?logo=html5), [CSS](https://img.shields.io/badge/-CSS-blue?logo=css3), [JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)  
+- Languages in ![C++](https://img.shields.io/badge/-C%2B%2B-green?logo=C++), ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html5), ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)  
 <!--
 **YeaaeunHan/YeaaeunHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
