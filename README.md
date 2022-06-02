@@ -3,7 +3,7 @@
 - 🔭 Seeking for Co-op position 
 - 🌱 Student at Seneca College  
 - 💬 Languages ![C++](https://img.shields.io/badge/-C%2B%2B-green?logo=C%2B%2B) ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)   
-- ⚡ Projects [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator),  [Github Page](https://yeaaeunhan.github.io/)(On progress)  
+- ⚡ Projects [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator), [News Board](https://github.com/YeaaeunHan/NewsBoard), [Github Page](https://yeaaeunhan.github.io/)(On progress)  
 
 <!--
 **YeaaeunHan/YeaaeunHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
