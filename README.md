@@ -2,7 +2,7 @@
   
 - 🔭 Seeking for Co-op position 
 - 🌱 Student at Seneca College  
-- 💬 Web Developemnt ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript) ![React](https://img.shields.io/badge/-JavaScript-blue?logo=react) ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)  ![Node.js](https://img.shields.io/badge/-CSS-blue?logo=node.js)  
+- 💬 Web Developemnt ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript) ![React](https://img.shields.io/badge/-React-blue?logo=react) ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3)  ![Node.js](https://img.shields.io/badge/-Node.js-blue?logo=node.js)  
 - 💬 Languages ![C++](https://img.shields.io/badge/-C%2B%2B-green?logo=C%2B%2B)  
 - ⚡ Projects [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator), [News Board](https://github.com/YeaaeunHan/NewsBoard), [Github Page](https://yeaaeunhan.github.io/)(On progress)  
 
