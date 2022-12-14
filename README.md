@@ -1,4 +1,4 @@
-### Hello, I am Yeaaeun Han.
+### Hello, I am Yen Han.
   
 - 🌱 Developer Intern at Jam3 & Student at Seneca College  
 - 💬 Web Developemnt ![JavaScript](https://img.shields.io/badge/-JavaScript-orange?logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-orange?logo=typescript) ![React](https://img.shields.io/badge/-React-orange?logo=react) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3) ![SASS](https://img.shields.io/badge/-SASS-blue?logo=sass) ![Node.js](https://img.shields.io/badge/-Node.js-blue?logo=node.js)  
