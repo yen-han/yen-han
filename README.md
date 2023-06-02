@@ -6,7 +6,7 @@
 
 :page_with_curl: &nbsp;  Languages ![C](https://img.shields.io/badge/-C-orange?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-orange?logo=C%2B%2B&&logoColor=white) ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)     
 
-:rocket: &nbsp;  Projects [AI Message Generator](https://github.com/YeaaeunHan/AI-generated-message-app), [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator), [News Board](https://github.com/YeaaeunHan/NewsBoard)       
+:rocket: &nbsp;  Projects [Time Leverage](https://github.com/yen-han/time-leverage), [AI Message Generator](https://github.com/YeaaeunHan/AI-generated-message-app), [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator), [News Board](https://github.com/YeaaeunHan/NewsBoard)       
 
 :e-mail: &nbsp;  Connect with me via [Linked-In](https://www.linkedin.com/in/yen-han/)
 
