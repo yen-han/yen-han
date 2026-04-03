@@ -8,7 +8,7 @@
 
 :books: Database ![MySQL](https://img.shields.io/badge/-MySQL-yellowgreen?logo=mysql&logoColor=white) ![mongoDB](https://img.shields.io/badge/-mongoDB-yellowgreen?logo=mongoDB&logoColor=white)
 
-:rocket: &nbsp;  Projects [Time Leverage](https://github.com/yen-han/time-leverage), [AI Message Generator](https://github.com/YeaaeunHan/AI-generated-message-app), [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator), [PicQly](https://github.com/photoappp/photo-app-fe) 
+:rocket: &nbsp; [PicQly](https://github.com/photoappp/photo-app-fe), Projects [Time Leverage](https://github.com/yen-han/time-leverage), [AI Message Generator](https://github.com/YeaaeunHan/AI-generated-message-app), [Grade Calculator](https://github.com/YeaaeunHan/GradeCalculator)
 
 :e-mail: &nbsp;  Connect with me via [Linked-In](https://www.linkedin.com/in/yen-han/)
 
